@@ -14,3 +14,5 @@ The page must satisfy the following criteria:
 
 tests: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
 from: www.freecodecamp.org
+
+PS:This is my first piece of html/css code. html,css needs to be cleaned
